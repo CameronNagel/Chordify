@@ -1,0 +1,6 @@
+@Chordify.Server_HostAddress = http://localhost:5246
+
+GET {{Chordify.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
